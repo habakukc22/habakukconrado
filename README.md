@@ -35,7 +35,7 @@
   <a href="https://twitter.com/conradohabakuk" target="_blank">
     <img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/habakukconrado/" target="_blank">
+  <a href="https://www.linkedin.com/in/habakuk-conrado/" target="_blank">
     <img alt="Linkedin" src="https://img.shields.io/badge/-LinkedIn-0A66C2?&style=for-the-badge&logo=LinkedIn&logoColor=white" />
   </a>
 </p>
