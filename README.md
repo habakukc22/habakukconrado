@@ -1,5 +1,5 @@
 ## Hello! I'm Habakuk Conrado 👋
----------------
+
 
 👨‍💻 I'm a software developer with experience developing web applications.
 
@@ -10,7 +10,6 @@
 
 
 ## Skills
-------------------------
 
 <p align="left"> 
 
@@ -41,6 +40,5 @@
   </a>
 </p>
 
---------------------
 
 Visit my personal <a href="https://www.conradodev.com/" target="_blank">website</a>
