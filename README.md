@@ -1,3 +1,5 @@
+
+
 ## Hello! I'm Habakuk Conrado 👋
 
 
@@ -5,11 +7,11 @@
 
 💡 Discover new technologies and improve my skills are the driving force
 
-👨‍🏫 Interesting thing about me is that I'm also M.Sc. in Physics
+👨‍🏫 Random fact about me is that I'm also M.Sc. in Physics
 
+### Visit my personal <a href="https://www.conradodev.com/" target="_blank">website</a>
 
-
-## Skills
+## My Skills
 
 <p align="left"> 
 
@@ -41,4 +43,4 @@
 </p>
 
 
-Visit my personal <a href="https://www.conradodev.com/" target="_blank">website</a>
+
