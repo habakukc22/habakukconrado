@@ -2,6 +2,31 @@
 
 ## Hello! I'm Habakuk Conrado 👋
 
+👨‍🏫 PhD student in Physics at Federal University of Pernambuco
+<h5>
+  Check my  
+  <a href="http://lattes.cnpq.br/6686227851982569" target="_blank">
+  Lattes CV
+  </a>
+</h5>
+
+## Find me
+<p>
+  <a href="mailto:habakuk.conrado@gmail.com" target="_blank">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-%23BB001B.svg?&style=for-the-badge&logo=Gmail&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/conradohabakuk" target="_blank">
+    <img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://orcid.org/0000-0002-5261-0762" target="_blank">
+    <img alt="Linkedin" src="https://img.shields.io/badge/My%20ORCID-grey?style=for-the-badge&logo=orcid" />
+  </a>
+
+  
+
+</p>
+
+<!-- 
 
 👨‍💻 I'm a software developer with experience developing web applications.
 
@@ -10,7 +35,6 @@
 👨‍🏫 Random fact about me is that I'm also M.Sc. in Physics
 
 ### Visit my personal <a href="https://www.conradodev.com/" target="_blank">website</a>
-
 ## My Skills
 
 <p align="left"> 
@@ -40,7 +64,9 @@
   <a href="https://www.linkedin.com/in/habakuk-conrado/" target="_blank">
     <img alt="Linkedin" src="https://img.shields.io/badge/-LinkedIn-0A66C2?&style=for-the-badge&logo=LinkedIn&logoColor=white" />
   </a>
+
 </p>
+  -->
 
 
 
